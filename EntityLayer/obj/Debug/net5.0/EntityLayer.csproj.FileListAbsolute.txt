@@ -1,0 +1,36 @@
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\3D Objects\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\source\repos\BlogApplicationSln\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ensoz\source\repos\BlogApplication\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

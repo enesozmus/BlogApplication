@@ -1,0 +1,74 @@
+﻿@model EntityLayer.Concrete.Author
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<!--/main--><!--/main--><!--/main--><!--/main--><!--/main-->
+<section class="main-content-w3layouts-agileits">
+    <div class="container">
+        <h3 class="tittle">Register Now</h3>
+        <div class="inner-sec">
+            <div class="login p-5 bg-light mx-auto mw-100">
+                @using (Html.BeginForm("Index", "Register", FormMethod.Post))
+                {
+
+                    <form method="post">
+                        <div class="form-row">
+                            <div class="col-md-6 mb-3">
+                                <label for="validationCustom01">Name</label>
+                                @Html.TextBoxFor(x => x.AuthorName, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.AuthorName, "", new { @style = "color:red" })
+
+
+                                @*<input type="text" class="form-control" id="validationDefault01" name="AuthorName" placeholder="" required="">*@
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="validationCustom02">E-mail</label>
+                                @Html.TextBoxFor(x => x.AuthorMail, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.AuthorMail, "", new { @style = "color:red" })
+
+
+                                @*<input type="text" class="form-control" id="validationDefault02" name="AuthorMail" placeholder="" required="">*@
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="exampleInputPassword1 mb-2">Password</label>
+                                @Html.TextBoxFor(x => x.AuthorPassword, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.AuthorPassword, "", new { @style = "color:red" })
+
+
+                                @*<input type="password" class="form-control" id="password1" name="AuthorPassword" placeholder="" required="">*@
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="exampleInputPassword2 mb-2">Confirm Password/Image</label>
+                                @Html.TextBoxFor(x => x.AuthorImage, new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.AuthorImage, "", new { @style = "color:red" })
+
+
+                               @*<input type="text" type="password" class="form-control" id="password2" name="AuthorImage" placeholder="" required="">*@
+                            </div>
+
+                        </div>
+                        <button type="submit" class="btn btn-primary submit mb-4">Register</button>
+                        <p>
+                            <a href="#" id="btn1">By clicking Signup, I agree to your terms</a>
+                        </p>
+                    </form>
+
+                }
+            </div>
+        </div>
+    </div>
+
+    <br />
+
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script>
+        $('#btn1').click(function () {
+            swal("Our Terms...", "terms terms terms terms terms terms terms terms terms terms terms terms terms terms terms terms terms terms");
+        });
+    </script>
+</section>
